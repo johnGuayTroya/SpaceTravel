@@ -1,0 +1,41 @@
+
+/*//estilos de la escena */
+div#escena{
+ float: center;
+ margin-left: 37%;
+ margin-rigth:30%;	 
+ background-color:white;
+}
+
+/*//estilos formulario*/
+.contenedor{
+	
+	float: center;
+	max-width:370px;
+	margin-left: 37%;	
+	height:45px;
+	background-color: darkorange;
+	
+}
+
+.formu{
+	
+	padding:0 2rem;
+	display:flex;
+	justify-content:center;
+	
+}
+.boton{
+	
+	justify-content: :space-around;
+	margin-top: 1rem;
+	margin-left: 3%;
+}
+.input{
+	
+	background-color: #FCFCFC;
+	margin-top: 5%;
+	border:none;
+	border-bottom: solid black ,2rem;
+	
+}
